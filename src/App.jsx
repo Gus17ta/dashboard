@@ -2,7 +2,6 @@ import MetricCard from './components/MetricCard.jsx'
 import SalesChart from './components/SalesChart.jsx'
 import SalesTable from './components/SalesTable.jsx'
 import './App.css'
-import './SalesTable.css'
 
 
 function App() {

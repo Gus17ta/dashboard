@@ -8,6 +8,8 @@ function SalesChart() {
     { month: 'Abr', sales: 2780 },
     { month: 'Mai', sales: 6890 },
     { month: 'Jun', sales: 4390 },
+    { month: 'Jul', sales: 5200 },
+    { month: 'Ago', sales: 4800 },
   ]
 
   return (

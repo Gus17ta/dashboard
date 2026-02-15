@@ -20,24 +20,28 @@ function SalesTable() {
     <td>Produto B</td>
     <td>Produto C</td>
     <td>Produto D</td>
+    <td>Produto E</td>
         </tr>
          <tr>
     <td>145</td>
     <td>98</td>
     <td>234</td>
     <td>67</td>
+    <td>156</td>
         </tr>
          <tr>
     <td>R$ 3.200</td>
     <td>R$ 2.100</td>
     <td>R$ 5.600</td>
     <td>R$ 1.200</td>
+    <td>R$ 3.500</td>
         </tr>
          <tr>
     <td>✅ Ativo</td>
     <td>✅ Ativo</td>
     <td>✅ Ativo</td>
     <td>⏸️ Pausado</td>
+    <td>✅ Ativo</td>
         </tr>
     </tbody>
      </table> 

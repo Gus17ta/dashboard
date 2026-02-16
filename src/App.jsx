@@ -36,6 +36,13 @@ function App() {
           icon="📦"
           color="#9C27B0"
         />
+
+        <MetricCard
+        title="Taxa de Conversão"
+        value= "3.2%"
+        icon="📊"
+        color="#FF9800"  
+         />
       </div>
       <SalesTable />
       <SalesChart />

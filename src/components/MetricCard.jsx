@@ -7,6 +7,10 @@ function MetricCard({ title, value, icon, color }) {
       <div className="metric-info">
         <h3>{title}</h3>
         <p className="metric-value">{value}</p>
+     
+
+     
+     
       </div>
     </div>
   )
